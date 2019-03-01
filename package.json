@@ -1,0 +1,20 @@
+{
+  "name": "assignment-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tictactoe.js",
+  "scripts": {
+    "build": "echo 'Build complete!'",
+    "start": "node tictactoe.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.2.1",
+    "clear-screen": "^1.0.0",
+    "file-system": "^2.2.2",
+    "fs-extra": "^7.0.0",
+    "nodemon": "^1.18.4",
+    "readline-sync": "^1.4.9"
+  }
+}
